@@ -7,3 +7,5 @@ Este é o cofre do projeto FarmDefender...
 2. [[Insights]]
 3. [[TO DO List]]
 4. [[História]]
+5. [[Paleta]]
+6. 

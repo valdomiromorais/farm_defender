@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="textures.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="428.50671"
+     inkscape:cy="422.84985"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="3.3998962"
+       originy="0"
+       spacingx="16.933333"
+       spacingy="16.933332"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient91"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d32f2f;stop-opacity:1;"
+         offset="0"
+         id="stop91" />
+      <stop
+         style="stop-color:#721818;stop-opacity:1;"
+         offset="1"
+         id="stop92" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient87"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#5d4037;stop-opacity:1;"
+         offset="0"
+         id="stop87" />
+      <stop
+         style="stop-color:#362520;stop-opacity:1;"
+         offset="1"
+         id="stop88" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient85"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffeb3b;stop-opacity:1;"
+         offset="0"
+         id="stop85" />
+      <stop
+         style="stop-color:#8a7c00;stop-opacity:1;"
+         offset="1"
+         id="stop86" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient83"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#1b5e20;stop-opacity:1;"
+         offset="0"
+         id="stop83" />
+      <stop
+         style="stop-color:#134417;stop-opacity:1;"
+         offset="1"
+         id="stop84" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient78"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#fff8e1;stop-opacity:1;"
+         offset="0"
+         id="stop79" />
+      <stop
+         style="stop-color:#ad8600;stop-opacity:1;"
+         offset="1"
+         id="stop80" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient77"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffca28;stop-opacity:1;"
+         offset="0"
+         id="stop77" />
+      <stop
+         style="stop-color:#a88000;stop-opacity:1;"
+         offset="1"
+         id="stop78" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient73"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0288d1;stop-opacity:1;"
+         offset="0"
+         id="stop73" />
+      <stop
+         style="stop-color:#015989;stop-opacity:1;"
+         offset="1"
+         id="stop74" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient69"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#b0bec5;stop-opacity:1;"
+         offset="0"
+         id="stop69" />
+      <stop
+         style="stop-color:#3a484f;stop-opacity:1;"
+         offset="1"
+         id="stop70" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient65"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#7b1fa2;stop-opacity:1;"
+         offset="0"
+         id="stop65" />
+      <stop
+         style="stop-color:#401056;stop-opacity:1;"
+         offset="1"
+         id="stop66" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient63"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop63" />
+      <stop
+         style="stop-color:#8a8a00;stop-opacity:1;"
+         offset="1"
+         id="stop64" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient61"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#388e3c;stop-opacity:1;"
+         offset="0"
+         id="stop61" />
+      <stop
+         style="stop-color:#215424;stop-opacity:1;"
+         offset="1"
+         id="stop62" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient59"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#696969;stop-opacity:1;"
+         offset="0"
+         id="stop59" />
+      <stop
+         style="stop-color:#2b2b2b;stop-opacity:1;"
+         offset="1"
+         id="stop60" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient54"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#8d6e63;stop-opacity:1;"
+         offset="0"
+         id="stop55" />
+      <stop
+         style="stop-color:#513f39;stop-opacity:1;"
+         offset="1"
+         id="stop56" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient53"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#bdaaa4;stop-opacity:1;"
+         offset="0"
+         id="stop53" />
+      <stop
+         style="stop-color:#503f3a;stop-opacity:1;"
+         offset="1"
+         id="stop54" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient46"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#78909c;stop-opacity:1;"
+         offset="0"
+         id="stop46" />
+      <stop
+         style="stop-color:#3a484f;stop-opacity:1;"
+         offset="1"
+         id="stop47" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient36"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ef6c00;stop-opacity:1;"
+         offset="0"
+         id="stop36" />
+      <stop
+         style="stop-color:#8a3e00;stop-opacity:1;"
+         offset="1"
+         id="stop37" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient34"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#81c784;stop-opacity:1;"
+         offset="0"
+         id="stop34" />
+      <stop
+         style="stop-color:#2a5f2d;stop-opacity:1;"
+         offset="1"
+         id="stop35" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient32"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#6d4c41;stop-opacity:1;"
+         offset="0"
+         id="stop32" />
+      <stop
+         style="stop-color:#563c33;stop-opacity:1;"
+         offset="1"
+         id="stop33" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient29"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#fbc02d;stop-opacity:1;"
+         offset="0"
+         id="stop30" />
+      <stop
+         style="stop-color:#876103;stop-opacity:1;"
+         offset="1"
+         id="stop31" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient28"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#4caf50;stop-opacity:1;"
+         offset="0"
+         id="stop28" />
+      <stop
+         style="stop-color:#2b5e2c;stop-opacity:1;"
+         offset="1"
+         id="stop29" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28"
+       id="linearGradient27"
+       x1="113.46656"
+       y1="16.933331"
+       x2="113.46656"
+       y2="67.733337"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient29"
+       id="linearGradient31"
+       x1="130.3999"
+       y1="16.933331"
+       x2="130.3999"
+       y2="67.733322"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient32"
+       id="linearGradient33"
+       x1="147.33322"
+       y1="16.933331"
+       x2="147.33322"
+       y2="67.733322"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient34"
+       id="linearGradient35"
+       x1="164.26657"
+       y1="16.933331"
+       x2="164.26657"
+       y2="67.733337"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient36"
+       id="linearGradient37"
+       x1="181.19989"
+       y1="16.933332"
+       x2="181.19989"
+       y2="67.73333"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient46"
+       id="linearGradient45"
+       x1="147.33322"
+       y1="84.666656"
+       x2="147.33322"
+       y2="135.46664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-16.933333)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient53"
+       id="linearGradient52"
+       x1="130.3999"
+       y1="84.666656"
+       x2="130.3999"
+       y2="135.46664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-16.933333)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient54"
+       id="linearGradient56"
+       x1="113.46656"
+       y1="84.666656"
+       x2="113.46656"
+       y2="135.46664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(84.666664,-67.733316)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient59"
+       id="linearGradient60"
+       x1="164.26654"
+       y1="84.666656"
+       x2="164.26654"
+       y2="135.46664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-16.933333)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient61"
+       id="linearGradient62"
+       x1="181.1937"
+       y1="84.666656"
+       x2="181.19989"
+       y2="135.46664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-16.933333)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient63"
+       id="linearGradient64"
+       x1="198.13321"
+       y1="84.666656"
+       x2="198.13321"
+       y2="135.46664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-16.933333)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient65"
+       id="linearGradient66"
+       x1="215.06656"
+       y1="84.666656"
+       x2="215.06656"
+       y2="135.46664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-16.933333)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient69"
+       id="linearGradient70"
+       x1="96.533226"
+       y1="152.39998"
+       x2="96.533226"
+       y2="203.19998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.933329)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient73"
+       id="linearGradient72"
+       x1="113.46656"
+       y1="152.39998"
+       x2="113.46656"
+       y2="203.19998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.933329)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient77"
+       id="linearGradient76"
+       x1="130.39989"
+       y1="152.39998"
+       x2="130.39989"
+       y2="203.19998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.933329)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient78"
+       id="linearGradient80"
+       x1="147.33322"
+       y1="152.39998"
+       x2="147.33322"
+       y2="203.19998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.933329)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient83"
+       id="linearGradient84"
+       x1="164.26657"
+       y1="152.39998"
+       x2="164.26657"
+       y2="203.19998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.933329)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient85"
+       id="linearGradient86"
+       x1="181.19989"
+       y1="152.39998"
+       x2="181.19989"
+       y2="203.19998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.933329)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient87"
+       id="linearGradient88"
+       x1="198.13324"
+       y1="152.39998"
+       x2="198.13324"
+       y2="203.19998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-84.666679,67.73333)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient91"
+       id="linearGradient90"
+       x1="215.06656"
+       y1="152.39998"
+       x2="215.06656"
+       y2="203.19998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-84.666676,67.733316)" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke-width:0.238674;stroke-linecap:round;stroke-linejoin:round"
+       id="rect92"
+       width="210"
+       height="297"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#4caf50;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1"
+       width="16.933332"
+       height="16.933332"
+       x="3.3998997"
+       y="16.933331" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:start;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4caf50;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="3.9908297"
+       y="36.365738"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:3.175px;line-height:4.53572px;stroke-width:0.2"
+         x="3.9908297"
+         y="36.365738">Verde Milho</tspan></text>
+    <rect
+       style="fill:#fbc02d;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2"
+       width="16.933332"
+       height="16.933332"
+       x="20.333233"
+       y="16.933331" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#fbc02d;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text2"
+       transform="translate(5.7404887,16.933332)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan28"><tspan
+           dx="0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan27">Amarelo</tspan><tspan
+           y="19.432405"
+           id="tspan30"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan32">Espiga</tspan></text>
+    <rect
+       style="fill:#6d4c41;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect3"
+       width="16.933332"
+       height="16.933332"
+       x="37.266563"
+       y="16.933331" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#6d4c41;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text3"
+       transform="translate(22.693764,16.933332)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan36"><tspan
+           dx="0 0 0 0 0 0 -0.0079376884"
+           id="tspan34">Marrom</tspan><tspan
+           y="19.432405"
+           id="tspan37"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan38">Madeira</tspan></text>
+    <rect
+       style="fill:#81c784;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect4"
+       width="16.933332"
+       height="16.933332"
+       x="54.199898"
+       y="16.933331" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#81c784;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text4"
+       transform="translate(39.6271,16.933332)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan43"><tspan
+           dx="0 0 0 0 0 -0.0079376884"
+           id="tspan42">Verde</tspan><tspan
+           y="19.432405"
+           id="tspan44"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan45">Irrigado</tspan></text>
+    <rect
+       style="fill:#ef6c00;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect5"
+       width="16.933332"
+       height="16.933332"
+       x="71.133224"
+       y="16.933331" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#ef6c00;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text5"
+       transform="translate(56.560431,16.933332)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan47"><tspan
+           dx="0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan46">Laranja</tspan><tspan
+           y="19.432405"
+           id="tspan48"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan49">Abóbora</tspan></text>
+    <rect
+       style="fill:#8d6e63;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect6"
+       width="16.933332"
+       height="16.933332"
+       x="3.3998997"
+       y="50.799995" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#8d6e63;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text6"
+       transform="translate(-11.172898,50.799995)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan51"><tspan
+           dx="0 0 0 0 0 -0.0079376884 0.0079374816"
+           id="tspan50">Terra Seca</tspan></tspan></text>
+    <rect
+       style="fill:#bcaaa4;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect7"
+       width="16.933332"
+       height="16.933332"
+       x="20.333233"
+       y="50.799995" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#bdaaa4;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text7"
+       transform="translate(5.7604349,50.799995)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan53"><tspan
+           dx="0 0 0 0 0 -0.0079372115"
+           id="tspan52">Areia</tspan><tspan
+           y="19.432405"
+           id="tspan54"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan55">Poeirenta</tspan></text>
+    <rect
+       style="fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect8"
+       width="16.933332"
+       height="16.933332"
+       x="37.266563"
+       y="50.799995" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text8"
+       transform="translate(22.693768,50.799995)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan61"><tspan
+           dx="0 0 0 0 0 -0.0079376884 0.0079374816"
+           id="tspan60">Cinza Pedra</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53573px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="28.797573"
+       y="50.714729"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:0.2"
+         x="28.801542"
+         y="50.714729">Sertão Árido</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53573px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="45.730904"
+       y="16.848064"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="stroke-width:0.2"
+         x="45.734871"
+         y="16.848064">Fazenda Sol Nascente</tspan></text>
+    <g
+       id="g15"
+       transform="translate(3.3998997,16.933332)">
+      <rect
+         style="fill:#424242;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect10"
+         width="16.933332"
+         height="16.933332"
+         x="-1.517725e-06"
+         y="67.73333" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#424242;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         x="23.02923"
+         y="19.432405"
+         id="text11"
+         transform="translate(-14.572797,67.733327)"><tspan
+           x="23.02923"
+           y="19.432405"
+           id="tspan63"><tspan
+             dx="0 0 0 0 0 -0.0079376884"
+             id="tspan62">Cinza</tspan><tspan
+             y="19.432405"
+             id="tspan64"> </tspan></tspan><tspan
+           x="23.02923"
+           y="23.968126"
+           id="tspan65">Rochoso</tspan></text>
+      <rect
+         style="fill:#388e3c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect11"
+         width="16.933332"
+         height="16.933332"
+         x="16.933334"
+         y="67.73333" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#388e3c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         x="23.02923"
+         y="19.432405"
+         id="text12"
+         transform="translate(2.3605381,67.733327)"><tspan
+           x="23.02923"
+           y="19.432405"
+           id="tspan71"><tspan
+             dx="0 0 0 0 0 -0.0079376884 0.0079379585"
+             id="tspan70">Verde Musgo</tspan></tspan></text>
+      <rect
+         style="fill:#ffff00;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect12"
+         width="16.933332"
+         height="16.933332"
+         x="33.866665"
+         y="67.73333" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#ffff00;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         x="23.02923"
+         y="19.432405"
+         id="text13"
+         transform="translate(19.293868,67.733327)"><tspan
+           x="23.02923"
+           y="19.432405"
+           id="tspan73"><tspan
+             dx="0 0 0 0 0 0 0 -0.0079376884"
+             id="tspan72">Amarelo</tspan><tspan
+             y="19.432405"
+             id="tspan74"> </tspan></tspan><tspan
+           x="23.02923"
+           y="23.968126"
+           id="tspan75">Brilhante</tspan></text>
+      <rect
+         style="fill:#7b1fa2;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect13"
+         width="16.933332"
+         height="16.933332"
+         x="50.799995"
+         y="67.73333" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#7b1fa2;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         x="23.02923"
+         y="19.432405"
+         id="text14"
+         transform="translate(36.227201,67.733327)"><tspan
+           x="23.02923"
+           y="19.432405"
+           id="tspan77"><tspan
+             dx="0 0 0 0 -0.0079372115"
+             id="tspan76">Roxo</tspan><tspan
+             y="19.432405"
+             id="tspan78"> </tspan></tspan><tspan
+           x="23.02923"
+           y="23.968126"
+           id="tspan79">Misterioso</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53573px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="37.2626"
+       y="84.666664"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="stroke-width:0.2"
+         x="37.266567"
+         y="84.666664">Pragóides</tspan></text>
+    <g
+       id="g19"
+       transform="translate(3.3998997,16.933332)">
+      <rect
+         style="fill:#b0bec5;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect15"
+         width="16.933332"
+         height="16.933332"
+         x="2.2969723e-06"
+         y="101.59999" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         x="23.02923"
+         y="19.432405"
+         id="text16"
+         transform="translate(-14.527747,101.59999)"><tspan
+           x="23.02923"
+           y="19.432405"
+           id="tspan85"><tspan
+             dx="0 0 0 0 0 -0.0079376884"
+             id="tspan84">Cinza</tspan><tspan
+             y="19.432405"
+             id="tspan86"> </tspan></tspan><tspan
+           x="23.02923"
+           y="23.968126"
+           id="tspan87">Metálico</tspan></text>
+      <rect
+         style="fill:#0288d1;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect16"
+         width="16.933332"
+         height="16.933332"
+         x="16.933334"
+         y="101.59999" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#0288d1;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         x="23.02923"
+         y="19.432405"
+         id="text17"
+         transform="translate(2.4055843,101.59999)"><tspan
+           x="23.02923"
+           y="19.432405"
+           id="tspan89"><tspan
+             dx="0 0 0 0 -0.0079375692 0.0079374816"
+             id="tspan88">Azul Água</tspan></tspan></text>
+      <rect
+         style="fill:#ffca28;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect17"
+         width="16.933332"
+         height="16.933332"
+         x="33.866665"
+         y="101.59999" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#ffca28;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         x="23.02923"
+         y="19.432405"
+         id="text18"
+         transform="translate(19.338914,101.59999)"><tspan
+           x="23.02923"
+           y="19.432405"
+           id="tspan91"><tspan
+             dx="0 0 0 0 0 0 0 -0.0079376884"
+             id="tspan90">Amarelo</tspan><tspan
+             y="19.432405"
+             id="tspan92"> </tspan></tspan><tspan
+           x="23.02923"
+           y="23.968126"
+           id="tspan93">Solar</tspan></text>
+      <rect
+         style="fill:#fff8e1;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect18"
+         width="16.933332"
+         height="16.933332"
+         x="50.799999"
+         y="101.59999" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#fff8e1;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         x="23.02923"
+         y="19.432405"
+         id="text19"
+         transform="translate(36.272248,101.59999)"><tspan
+           x="23.02923"
+           y="19.432405"
+           id="tspan95"><tspan
+             dx="0 0 0 0 0 0 -0.0079367347"
+             id="tspan94">Branco</tspan><tspan
+             y="19.432405"
+             id="tspan96"> </tspan></tspan><tspan
+           x="23.02923"
+           y="23.968126"
+           id="tspan97">Brilho</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53573px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="37.267342"
+       y="118.44186"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="stroke-width:0.2"
+         x="37.271309"
+         y="118.44186">Defesas</tspan></text>
+    <g
+       id="g25">
+      <rect
+         style="fill:#1b5e20;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect20"
+         width="16.933332"
+         height="16.933332"
+         x="3.3999002"
+         y="152.39999" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#1b5e20;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         x="23.02923"
+         y="19.432405"
+         id="text21"
+         transform="translate(-11.172897,152.39998)"><tspan
+           x="23.02923"
+           y="19.432405"
+           id="tspan99"><tspan
+             dx="0 0 0 0 0 -0.0079376884"
+             id="tspan98">Verde</tspan><tspan
+             y="19.432405"
+             id="tspan100"> </tspan></tspan><tspan
+           x="23.02923"
+           y="23.968126"
+           id="tspan101">Escuro</tspan></text>
+      <rect
+         style="fill:#ffeb3b;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect21"
+         width="16.933332"
+         height="16.933332"
+         x="20.333233"
+         y="152.39999" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#ffeb3b;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         x="23.02923"
+         y="19.432405"
+         id="text22"
+         transform="translate(5.7604348,152.39998)"><tspan
+           x="23.02923"
+           y="19.432405"
+           id="tspan103"><tspan
+             dx="0 0 0 0 0 0 0 -0.0079376884"
+             id="tspan102">Amarelo</tspan><tspan
+             y="19.432405"
+             id="tspan104"> </tspan></tspan><tspan
+           x="23.02923"
+           y="23.968126"
+           id="tspan105">Texto</tspan></text>
+      <rect
+         style="fill:#5d4037;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect22"
+         width="16.933332"
+         height="16.933332"
+         x="37.266563"
+         y="152.39999" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#5d4037;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         x="23.02923"
+         y="19.432405"
+         id="text23"
+         transform="translate(22.693769,152.39998)"><tspan
+           x="23.02923"
+           y="19.432405"
+           id="tspan107"><tspan
+             dx="0 0 0 0 0 0 -0.0079376884"
+             id="tspan106">Marrom</tspan><tspan
+             y="19.432405"
+             id="tspan108"> </tspan></tspan><tspan
+           x="23.02923"
+           y="23.968126"
+           id="tspan109">Botão</tspan></text>
+      <rect
+         style="fill:#d32f2f;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         id="rect23"
+         width="16.933332"
+         height="16.933332"
+         x="54.199898"
+         y="152.39999" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#d32f2f;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+         x="23.02923"
+         y="19.432405"
+         id="text24"
+         transform="translate(39.627105,152.39998)"><tspan
+           x="23.02923"
+           y="19.432405"
+           id="tspan111"><tspan
+             dx="0 0 0 0 0 0 0 0 -0.0079376884"
+             id="tspan110">Vermelho</tspan><tspan
+             y="19.432405"
+             id="tspan112"> </tspan></tspan><tspan
+           x="23.02923"
+           y="23.968126"
+           id="tspan113">Alerta</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53573px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="37.239437"
+       y="152.39999"
+       id="text25"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         style="stroke-width:0.2"
+         x="37.243404"
+         y="152.39999">UI &amp; HUD</tspan></text>
+    <rect
+       style="fill:url(#linearGradient27);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect25"
+       width="16.933332"
+       height="50.800003"
+       x="104.99989"
+       y="16.933331" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:start;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4caf50;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="105.59082"
+       y="16.841864"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         style="font-size:3.175px;line-height:4.53572px;stroke-width:0.2"
+         x="105.59082"
+         y="16.841864">Verde Milho</tspan></text>
+    <rect
+       style="fill:url(#linearGradient31);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect29"
+       width="16.933332"
+       height="50.799995"
+       x="121.93323"
+       y="16.933331" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#fbc02d;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text29"
+       transform="translate(107.35113,-7.1262616)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan115"><tspan
+           dx="0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan114">Amarelo</tspan><tspan
+           y="19.432405"
+           id="tspan116"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan117">Espiga</tspan></text>
+    <rect
+       style="fill:url(#linearGradient33);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect31"
+       width="16.933332"
+       height="50.799995"
+       x="138.86656"
+       y="16.933331" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#6d4c41;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text31"
+       transform="translate(124.29376,-7.1200604)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan119"><tspan
+           dx="0 0 0 0 0 0 -0.0079376884"
+           id="tspan118">Marrom</tspan><tspan
+           y="19.432405"
+           id="tspan120"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan121">Madeira</tspan></text>
+    <rect
+       style="fill:url(#linearGradient35);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect33"
+       width="16.933332"
+       height="50.800003"
+       x="155.7999"
+       y="16.933331" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#81c784;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text33"
+       transform="translate(141.20238,-7.123161)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan123"><tspan
+           dx="0 0 0 0 0 -0.0079376884"
+           id="tspan122">Verde</tspan><tspan
+           y="19.432405"
+           id="tspan124"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan125">Irrigado</tspan></text>
+    <rect
+       style="fill:url(#linearGradient37);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect35"
+       width="16.933332"
+       height="50.799995"
+       x="172.73323"
+       y="16.933332" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#ef6c00;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text35"
+       transform="translate(158.16905,-7.1018703)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan127"><tspan
+           dx="0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan126">Laranja</tspan><tspan
+           y="19.432405"
+           id="tspan128"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan129">Abóbora</tspan></text>
+    <rect
+       style="fill:url(#linearGradient56);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect37"
+       width="16.933332"
+       height="50.799992"
+       x="189.66655"
+       y="16.93334" />
+    <rect
+       style="fill:url(#linearGradient52);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect38"
+       width="16.933332"
+       height="50.799984"
+       x="104.99989"
+       y="84.666656" />
+    <rect
+       style="fill:url(#linearGradient45);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect39"
+       width="16.933332"
+       height="50.799984"
+       x="121.93323"
+       y="84.666656" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#8d6e63;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text39"
+       transform="translate(175.07215,-2.4990654)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan131"><tspan
+           dx="0 0 0 0 0 -0.0079376884 0.0079374816"
+           id="tspan130">Terra Seca</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#bdaaa4;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text40"
+       transform="translate(90.419437,60.613264)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan133"><tspan
+           dx="0 0 0 0 0 -0.0079372115"
+           id="tspan132">Areia</tspan><tspan
+           y="19.432405"
+           id="tspan134"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan135">Poeirenta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text41"
+       transform="translate(107.33998,65.234251)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan137"><tspan
+           dx="0 0 0 0 0 -0.0079376884 0.0079374816"
+           id="tspan136">Cinza Pedra</tspan></tspan></text>
+    <rect
+       style="fill:url(#linearGradient60);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect56"
+       width="16.933332"
+       height="50.799992"
+       x="138.86655"
+       y="84.666656" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#424242;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text56"
+       transform="translate(124.29376,60.607063)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan139"><tspan
+           dx="0 0 0 0 0 -0.0079376884"
+           id="tspan138">Cinza</tspan><tspan
+           y="19.432405"
+           id="tspan140"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan141">Rochoso</tspan></text>
+    <rect
+       style="fill:url(#linearGradient62);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect57"
+       width="16.933332"
+       height="50.799992"
+       x="155.7999"
+       y="84.666656" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#388e3c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text57"
+       transform="translate(141.2271,65.234251)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan143"><tspan
+           dx="0 0 0 0 0 -0.0079376884 0.0079379585"
+           id="tspan142">Verde Musgo</tspan></tspan></text>
+    <rect
+       style="fill:url(#linearGradient64);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect58"
+       width="16.933332"
+       height="50.799992"
+       x="172.73322"
+       y="84.666656" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#ffff00;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text58"
+       transform="translate(158.16043,60.57451)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan145"><tspan
+           dx="0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan144">Amarelo</tspan><tspan
+           y="19.432405"
+           id="tspan146"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan147">Brilhante</tspan></text>
+    <rect
+       style="fill:url(#linearGradient66);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect59"
+       width="16.933332"
+       height="50.799992"
+       x="189.66655"
+       y="84.666656" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#7b1fa2;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text59"
+       transform="translate(175.09376,60.607063)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan149"><tspan
+           dx="0 0 0 0 -0.0079372115"
+           id="tspan148">Roxo</tspan><tspan
+           y="19.432405"
+           id="tspan150"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan151">Misterioso</tspan></text>
+    <rect
+       style="fill:url(#linearGradient70);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect66"
+       width="16.933332"
+       height="50.799999"
+       x="104.99989"
+       y="152.39998" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text66"
+       transform="translate(90.47214,128.3404)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan153"><tspan
+           dx="0 0 0 0 0 -0.0079376884"
+           id="tspan152">Cinza</tspan><tspan
+           y="19.432405"
+           id="tspan154"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan155">Metálico</tspan></text>
+    <rect
+       style="fill:url(#linearGradient72);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect67"
+       width="16.933332"
+       height="50.799999"
+       x="121.93322"
+       y="152.39998" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#0288d1;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text67"
+       transform="translate(107.40547,132.87612)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan157"><tspan
+           dx="0 0 0 0 -0.0079375692 0.0079374816"
+           id="tspan156">Azul Água</tspan></tspan></text>
+    <rect
+       style="fill:url(#linearGradient76);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect68"
+       width="16.933332"
+       height="50.799999"
+       x="138.86655"
+       y="152.39998" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#ffca28;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text68"
+       transform="translate(124.3388,128.3404)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan159"><tspan
+           dx="0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan158">Amarelo</tspan><tspan
+           y="19.432405"
+           id="tspan160"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan161">Solar</tspan></text>
+    <rect
+       style="fill:url(#linearGradient80);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect69"
+       width="16.933332"
+       height="50.799999"
+       x="155.7999"
+       y="152.39998" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#fff8e1;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text69"
+       transform="translate(141.27214,128.30784)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan163"><tspan
+           dx="0 0 0 0 0 0 -0.0079367347"
+           id="tspan162">Branco</tspan><tspan
+           y="19.432405"
+           id="tspan164"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan165">Brilho</tspan></text>
+    <rect
+       style="fill:url(#linearGradient84);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect80"
+       width="16.933332"
+       height="50.799999"
+       x="172.73323"
+       y="152.39998" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#1b5e20;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text80"
+       transform="translate(158.16043,128.3404)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan167"><tspan
+           dx="0 0 0 0 0 -0.0079376884"
+           id="tspan166">Verde</tspan><tspan
+           y="19.432405"
+           id="tspan168"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan169">Escuro</tspan></text>
+    <rect
+       style="fill:url(#linearGradient86);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect81"
+       width="16.933332"
+       height="50.799999"
+       x="189.66656"
+       y="152.39998" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#ffeb3b;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text81"
+       transform="translate(175.09376,128.34661)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan171"><tspan
+           dx="0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan170">Amarelo</tspan><tspan
+           y="19.432405"
+           id="tspan172"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan173">Texto</tspan></text>
+    <rect
+       style="fill:url(#linearGradient88);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect82"
+       width="16.933332"
+       height="50.799999"
+       x="104.99989"
+       y="220.1333" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#5d4037;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text82"
+       transform="translate(90.427092,196.04117)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan175"><tspan
+           dx="0 0 0 0 0 0 -0.0079376884"
+           id="tspan174">Marrom</tspan><tspan
+           y="19.432405"
+           id="tspan176"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan177">Botão</tspan></text>
+    <rect
+       style="fill:url(#linearGradient90);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect83"
+       width="16.933332"
+       height="50.799999"
+       x="121.93323"
+       y="220.1333" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#d32f2f;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text83"
+       transform="translate(107.36043,196.0737)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan179"><tspan
+           dx="0 0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan178">Vermelho</tspan><tspan
+           y="19.432405"
+           id="tspan180"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan181">Alerta</tspan></text>
+  </g>
+</svg>
