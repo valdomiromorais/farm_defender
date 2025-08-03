@@ -2,136 +2,130 @@
 
 ## A Lenda da Sol Nascente
 
-No coração do Sertão Pernambucano, onde o sol nasce pintando o céu de dourado e o vento sussurra histórias antigas, existe uma pequena fazenda chamada **_Sol Nascente_**. É um oásis verdejante cercado por terras áridas, um milagre verde que desafia a sede do sertão. 
+No coração do Sertão Pernambucano, onde o sol nasce dourando o céu e o vento sussurra causos antigos, brilha a **Sol Nascente**, um oásis verdejante em terras áridas. Sob o cuidado de **Valdô, o Guardião da Terra**, a fazenda desafia a seca com **milho dourado (#FBC02D)**, **feijão verde (#4CAF50)**, **abóboras laranja (#EF6C00)** e **girassóis amarelos (#FBC02D)** que balançam como sorrisos ao vento.
 
-A fazenda é cuidada por **Valdô, o Guardião da Terra**, um jovem fazendeiro de coração generoso que herdou não apenas as terras, mas também o amor profundo pelas plantações de seu querido avô, Seu Antônio. Nas mãos de Valdô florescem **milho dourado como o sol**, **feijão verde como a esperança**, **abóboras laranja como o entardecer** e **girassóis amarelos como sorrisos**, trazendo vida e sustento a uma região onde a seca é uma velha conhecida.
-
-Mas carregado no peito, Valdô guarda o **Amuleto do Mandacaru** - uma semente encantada deixada pelo avô, que brilha suavemente quando o perigo se aproxima. Seu Antônio sempre dizia: *"Meu filho, a terra só dá o que recebe com amor. E quando o amor é verdadeiro, até os espinhos florescem."*
+Valdô herdou a fazenda e o **Amuleto do Mandacaru** de seu avô, Seu Antônio, uma semente encantada que brilha (#FFF8E1) quando o perigo se aproxima. Seu Antônio dizia: *"Meu filho, a terra só dá o que recebe com amor. E quando o amor é verdadeiro, até os espinhos florescem."*
 
 ## A Maldição da Grande Seca 🌵
 
-Há 50 anos, uma seca devastadora varreu o sertão como um dragão sedento. As lágrimas da terra ressecada, misturadas com a desesperança dos fazendeiros e o choro silencioso dos animais, criaram algo inesperado nas profundezas do solo: os **Pragóides** - pequenos seres nascidos da sede ancestral e da fome esquecida.
-
-Os Pragóides não são verdadeiramente malvados. São criaturas perdidas, filhos da dor da terra, que esqueceram que a abundância pode curar a escassez. Eles só sabem que precisam... de algo. Algo verde, algo vivo, algo que lhes dê o que nunca tiveram.
+Há 50 anos, a Grande Seca devastou o sertão, misturando lágrimas da terra, desesperança dos fazendeiros e o choro dos animais. Nas profundezas do solo árido (#8D6E63), nasceram os **Pragóides**, criaturas famintas movidas pela sede ancestral. Não são vilões, mas seres perdidos, buscando algo verde, algo vivo, para aplacar uma fome que não entendem.
 
 ## Os Pragóides - Criaturas da Sede 👾
 
-Estas criaturas pequenas e travessas, com **olhos que brilham como estrelas solitárias** e **garras que sussurram histórias de fome**, surgem quando o sol se despede e a lua toma conta do céu. Cada tipo carrega sua própria tristeza:
+Surgindo ao luar, os Pragóides têm **olhos brilhantes (#FFFF00)** e garras que sussurram histórias de escassez. Cada tipo reflete uma faceta da seca:
 
 ### 🟤 **Pragóides de Terra** - *"Glub-glub... água... água..."*
-- **Aparência**: Corpinhos de barro ressecado, rachaduras que brilham azul
-- **Comportamento**: Movem-se devagar, parando para "escutar" a umidade do solo
-- **Ataque**: Roem raízes desesperadamente, como se procurassem rios subterrâneos
-- **Fraqueza**: Armadilhas com água os fazem chorar de felicidade e adormecer
+- **Aparência**: Corpos de barro rachado (#424242) com detalhes azuis (#0288D1).
+- **Comportamento**: Movem-se lentamente, parando para "escutar" a umidade.
+- **Ataque**: Roem raízes em busca de rios subterrâneos.
+- **Fraqueza**: Armadilhas de água (#0288D1) os fazem chorar de felicidade e adormecer.
+- **Modelo**: Criar no Blender com textura rachada (`farm_assets/pragoide_terra.blend`).
 
 ### 🕊️ **Pragóides Voadores** - *"Ziiiim... folhas verdes... ziiiim..."*
-- **Aparência**: Asas translúcidas como vidro do sertão, fazem acrobacias tristes
-- **Comportamento**: Dançam no ar antes de atacar, como se lembrassem de quando voavam livres
-- **Ataque**: Mordem folhas procurando a "chuva verde" das plantas
-- **Fraqueza**: Ventiladores os fazem dançar de volta para casa
+- **Aparência**: Asas translúcidas (#388E3C) como vidro do sertão.
+- **Comportamento**: Dançam no ar antes de atacar, como se lembrassem da liberdade.
+- **Ataque**: Mordem folhas (#4CAF50) procurando "chuva verde".
+- **Fraqueza**: Ventiladores solares (#B0BEC5, #FFCA28) os fazem dançar de volta.
+- **Modelo**: Criar no Blender com asas animadas (`farm_assets/pragoide_voador.blend`).
 
 ### ✨ **Pragóides Luminosos** - *"Piscam como vaga-lumes nostálgicos"*
-- **Aparência**: Corpos que piscam em morse: S.O.S... S.O.S...
-- **Comportamento**: Confundem propositalmente, mas é porque estão perdidos também
-- **Ataque**: Sua luz hipnótica faz Valdô esquecer onde está
-- **Fraqueza**: Lanternas mais fortes os guiam de volta para a escuridão pacífica
-
-## A Missão do Coração 💚
-
-Quando o **Amuleto do Mandacaru** começa a brilhar intensamente, Valdô descobre a verdade: os Pragóides são comandados por uma criatura majestosa e melancólica, o **Rei Pragóide**, que habita uma caverna nas montanhas próximas. O Rei não é um vilão - é um guardião esquecido que chora lágrimas de lama, carregando a dor de toda a seca do sertão.
-
-Para salvar a fazenda e curar o coração ferido do sertão, Valdô precisa proteger suas plantações noite após noite, provando que a abundância ainda existe, que o amor pela terra ainda floresce. Só assim poderá juntar coragem e recursos para subir a montanha e mostrar ao Rei Pragóide que a sede pode ser saciada com carinho, não com destruição.
+- **Aparência**: Corpos roxos (#7B1FA2) que piscam em morse: S.O.S.
+- **Comportamento**: Confundem com luz hipnótica, mas estão perdidos.
+- **Ataque**: Fazem Valdô esquecer o caminho com sua luz.
+- **Fraqueza**: Lanternas de Luzia (#FFF8E1) criam um círculo de luz que os guia para a escuridão pacífica.
+- **Modelo**: Criar no Blender com emissão luminosa (`farm_assets/pragoide_luminoso.blend`).
 
 ## Os Guardiões da Sol Nascente 👥
 
-Valdô não está sozinho nesta jornada. Ao seu lado estão:
+Valdô conta com aliados leais:
 
 ### 🐔 **Tina, a Galinha Valente e Seus Pintinhos Sentinelas**
-- **Personalidade**: Corajosa como uma leoa, mas carinhosa como uma mãe
-- **Habilidades**: Patrulha a fazenda e seus três pintinhos (Pipoca, Paçoca e Pudim) servem como mini-sentinelas
-- **Frase marcante**: *"Cócóricó! Ninguém mexe com as plantas da minha família!"*
+- **Personalidade**: Corajosa e maternal.
+- **Habilidades**: Patrulha com Pipoca, Paçoca e Pudim, alertando sobre Pragóides.
+- **Frase**: *"Cócóricó! Ninguém mexe com as plantas da minha família!"*
+- **Modelo**: Galinha low-poly (#FBC02D, #D32F2F) em `farm_assets/tina.blend`.
 
 ### 🔧 **Seu Zé, o Mecânico das Maravilhas**
-- **Personalidade**: Inventor genial que conta causos hilários enquanto trabalha
-- **Especialidade**: Cria armadilhas fantásticas - canhões de água movidos a energia solar, ventiladores que tocam forró
-- **Causo favorito**: *"Essa armadilha aqui, meu fio, eu inventei depois que um tatu me ensinou que água boa é água que canta!"*
+- **Personalidade**: Inventor genial, conta causos hilários.
+- **Especialidade**: Cria ventiladores solares (#B0BEC5, #FFCA28) e canhões de água (#0288D1).
+- **Causo**: *"Essa armadilha, meu fio, canta forró melhor que sanfona!"*
+- **Modelo**: Ferramentas em `farm_assets/ventilador_ze.blend`.
 
 ### 🌿 **Luzia, a Botânica do Coração Verde**
-- **Personalidade**: Sábia como uma árvore centenária, conhece os segredos de cada planta do sertão
-- **Conhecimento**: Especialista em plantas nativas (mandacaru, xique-xique, umbuzeiro) e suas propriedades mágicas
-- **Filosofia**: *"Cada planta tem uma alma, Valdô. E algumas almas brilham tanto que podem curar até a sede mais antiga."*
+- **Personalidade**: Sábia, conhece segredos das plantas.
+- **Conhecimento**: Usa mandacaru, xique-xique e umbuzeiro (#4CAF50) com propriedades mágicas.
+- **Filosofia**: *"Cada planta tem uma alma, Valdô. Algumas brilham (#FFF8E1) para curar."*
+- **Modelo**: Lanternas em `farm_assets/lanterna_luzia.blend`.
 
 ## Objetivo do Jogo 🎯
 
-O jogador assume o papel de Valdô, defendendo a fazenda Sol Nascente em noites consecutivas que se tornam mais desafiadoras e emocionais. Cada noite traz ondas de Pragóides, e o jogador deve:
+Valdô defende a Sol Nascente em noites desafiadoras, usando recursos e defesas gentis:
 
 ### 🌙 **Fase das Noites** (1-15)
-- **Plantar culturas** para ganhar recursos (sementes mágicas, gotas de orvalho, luz de lua)
-- **Construir defesas carinhosas** - armadilhas de água que cantam, ventiladores que dançam forró, lanternas que contam histórias
-- **Proteger as plantações** até o amanhecer, quando os Pragóides retornam às profundezas
-- **Ouvir as histórias** dos Pragóides derrotados - cada um sussurra uma memória da Grande Seca
-- **Colecionar lágrimas de gratídão** - quando um Pragóide é "curado" por uma armadilha gentil
+- **Plantar Culturas**: Geram recursos:
+  - Milho (#FBC02D): Sementes mágicas.
+  - Feijão (#4CAF50): Gotas de orvalho.
+  - Abóboras (#EF6C00): Luz de lua.
+  - Girassóis (#FBC02D): Energia solar.
+- **Construir Defesas**: Armadilhas como:
+  - Canhão de Água (#0288D1): Afeta Pragóides de Terra.
+  - Ventilador Solar (#B0BEC5, #FFCA28): Repulsa Voadores.
+  - Lanterna de Luzia (#FFF8E1): Guia Luminosos.
+- **Proteger Plantas**: Até o amanhecer, quando Pragóides recuam.
+- **Coletar Lágrimas de Gratidão**: Quando Pragóides são "curados", dropam lágrimas como recurso.
+- **Histórias**: Cada Pragóide derrotado sussurra memórias da Grande Seca.
 
 ### 🏔️ **A Jornada à Montanha** (Noite 16)
-Quando o **Amuleto do Mandacaru** brilha com todas as cores do arco-íris, Valdô sabe que é hora. Com as lágrimas de gratídão coletadas, ele segue para a caverna nas montanhas, acompanhado por Tina, Seu Zé e Luzia.
+Valdô, com o Amuleto brilhando (#FFF8E1), vai à caverna do Rei Pragóide com Tina, Seu Zé e Luzia.
 
 ### 👑 **O Encontro com o Rei Pragóide** - *Boss Fight Emocional*
-- **Aparência**: Uma criatura majestosa do tamanho de uma casa, feita de terra ressecada mas com olhos que refletem todas as estrelas do sertão
-- **Primeira fase**: O Rei ataca com *ondas de tristeza* - Valdô deve esquivar e mostrar as plantas que cresceram
-- **Segunda fase**: O Rei conta sua história através de *vises* - flashbacks da Grande Seca
-- **Fase final**: Não é uma luta, é um **ritual de cura**. Valdô oferece as lágrimas de gratídão coletadas
-- **Fala final do Rei**: *"Eu só queria... água... vida... Esqueci que já existia aqui... em vocês..."*
-- **Transformação**: O Rei se torna o **Guardião das Chuvas**, prometendo trazer água ao sertão quando necessário
+- **Aparência**: Criatura majestosa de terra (#424242) com olhos estelares (#FFFF00).
+- **Fase 1**: Ondas de tristeza; Valdô esquiva e mostra plantas (#4CAF50).
+- **Fase 2**: Flashbacks da Grande Seca via visões.
+- **Fase 3**: Ritual de cura com lágrimas de gratidão.
+- **Fala Final**: *"Eu só queria... água... vida... Esqueci que já existia em vocês..."*
+- **Transformação**: Rei torna-se Guardião das Chuvas, trazendo chuvas suaves.
 
 ## Tom e Estilo 🎵
-
-A história é um abraço caloroso que mistura:
-- **Humor sertanejo**: Causos de Seu Zé, birras de Tina, sabedoria poética de Luzia
-- **Aventura emocionante**: Ondas crescentes, armadilhas criativas, descobertas mágicas
-- **Orgulho regional**: Forró de fundo, plantas nativas, expressões do nordeste
-- **Mensagem de esperança**: A abundancia começa com carinho, a cura vem do coração
-- **Visual**: Colorido como um pôr-do-sol sertanejo, mas com momentos suaves como um amanhecer
+- **Humor Sertanejo**: Causos de Seu Zé, birras de Tina, sabedoria de Luzia.
+- **Aventura Emocionante**: Ondas crescentes, armadilhas criativas.
+- **Orgulho Regional**: Forró, plantas nativas, expressões nordestinas.
+- **Visual**: Pôr-do-sol sertanejo (#FBC02D, #EF6C00) com amanheceres suaves (#FFF8E1).
+- **Mensagem**: A abundância vem do carinho, a cura vem do coração.
 
 ## Fases Pós-Jogo: O Sertão Renovado 🌈
-
-Após curar o Rei Pragóide:
-- **Modo Jardim**: Valdô pode cultivar livremente, criando jardins temáticos
-- **Os Pragóides Ex-Inimigos**: Agora ajudam na fazenda! Carregam água, polinizam flores
-- **Festival da Sol Nascente**: Event monthly onde vizinhos visitam a fazenda
-- **Chuvas Bençãos**: O ex-Rei manda chuvas suaves quando as plantas precisam
+- **Modo Jardim**: Cultivar jardins temáticos com plantas nativas (#4CAF50).
+- **Pragóides Aliados**: Ajudam a regar e polinizar.
+- **Festival da Sol Nascente**: Evento mensal com vizinhos.
+- **Chuvas Bençãos**: Chuvas suaves do Guardião das Chuvas.
 
 ## Expansões Futuras 🎆
-
-### 🏠 **DLC: Vizinhos da Esperança**
-- **Missões Secundárias**: Ajudar fazendas vizinhas que também têm problemas com Pragóides menores
-- **Novos Personagens**: D. Maria (doceira), Chico (sanfoneiro), Nina (veterinária)
-- **Novas Culturas**: Caju, manga, coco - cada uma com propriedades especiais
-
-### 🤖 **DLC: As Invenções de Seu Zé**
-- **Tecnologia Avançada**: Drones que tocam forró, roôbs regadores, placas solares dançantes
-- **Laboratório de Invenções**: Mini-jogos de criar gadgets maluco
-- **Missão Especial**: Seu Zé precisa de ajuda para inventar um "Detector de Saudade"
+Prioridade inicial: **Segredos de Luzia** (plantas mágicas) e **Modo Jardim** (cultivo livre).
 
 ### 🌿 **DLC: Os Segredos de Luzia**
-- **Plantas Mágicas**: Mandacaru luminoso, xique-xique musical, umbuzeiro curandeiro
-- **Modo Botânico**: Catalogar e descobrir propriedades mágicas de plantas nativas
-- **Jardim Secret**: Área especial onde plantas raras crescem
-- **Receitas Especiais**: Poções de crescimento, chás que atraem borboletas
+- **Plantas Mágicas**: Mandacaru luminoso (#FFF8E1), xique-xique musical (#4CAF50).
+- **Modo Botânico**: Catalogar plantas para buffs.
+- **Jardim Secreto**: Área com plantas raras.
+- **Modelo**: Criar mandacaru em `farm_assets/mandacaru.blend`.
+
+### 🏠 **DLC: Vizinhos da Esperança**
+- **Personagens**: D. Maria (doceira), Chico (sanfoneiro), Nina (veterinária).
+- **Culturas**: Caju, manga, coco (#FBC02D, #EF6C00).
+- **Missões**: Ajudar fazendas vizinhas.
+
+### 🤖 **DLC: As Invenções de Seu Zé**
+- **Invenções**: Drones de forró, robôs regadores (#B0BEC5).
+- **Laboratório**: Mini-jogos de criação.
 
 ### 🐥 **Modo Cooperativo: A Família Sol Nascente**
-- **Player 2 - Tina**: Controla a galinha e seus pintinhos, pode voar e dar alertas
-- **Player 3 - Seu Zé**: Controla invenções e armadilhas em tempo real
-- **Player 4 - Luzia**: Pode plantar e curar em áreas especiais, fala com plantas
-- **Modo Familia**: Todos juntos enfrentam "O Grande Pragóide Ancestral"
+- **Player 2 - Tina**: Controla pintinhos, alerta Pragóides.
+- **Player 3 - Seu Zé**: Gerencia armadilhas.
+- **Player 4 - Luzia**: Planta e cura.
 
-### 🎭 **DLC Especial: As Memórias do Avô**
-- **Flashbacks Jogáveis**: Jogar como Seu Antônio jovem na época da Grande Seca
-- **História Paralela**: Como o avô conheceu os primeiros Pragóides e tentou ajudá-los
-- **Missão Emocional**: Encontrar as "Memórias Perdidas" espalhadas pelo sertão
-- **Final Alternativo**: Descobrir que o Rei Pragóide foi amigo do avô!
+### 🎭 **DLC: As Memórias do Avô**
+- **Flashbacks**: Jogar como Seu Antônio na Grande Seca.
+- **Missão**: Encontrar Memórias Perdidas.
+- **Final**: Rei Pragóide como amigo do avô.
 
----
-
-> *"No coração do sertão, onde o sol desenha histórias no chão rachado e o vento carrega serenatas antigas, uma pequena fazenda provou que o amor pode florescer mesmo nos espinhos. E assim, a Sol Nascente brilhou não apenas para Valdô, mas para todo ser que um dia esqueceu como sonhar com chuva."*
-> 
-> **- Epílogo narrado por Luzia, a Botânica do Coração Verde**
+> *"No coração do sertão, onde o sol desenha histórias no chão rachado e o vento carrega serenatas antigas, a Sol Nascente provou que o amor floresce até nos espinhos."*  
+> **- Luzia, a Botânica do Coração Verde**

@@ -6,3 +6,4 @@ Este é o cofre do projeto FarmDefender...
 1. [[Relatório Atual]]
 2. [[Insights]]
 3. [[TO DO List]]
+4. [[História]]
