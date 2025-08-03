@@ -1,0 +1,10 @@
+﻿053f6a70 (HEAD -> main, origin/main) ASSETS 3D MODELADOS - Arquivos Blender e GLB adicionados
+88c8dd28 PALETA DE CORES Farm Defender - Assets visuais criados!
+7f1aad8c EXPANS├âO ├ëPICA Farm Defender - Novas mem├│rias v05-v07 + Relat├│rios 06-08 + Documenta├º├úo atualizada
+3c879406 HIST├ôRIA ├ëPICA + Mem├│ria v04 - Farm Defender evolui para n├¡veis cinematogr├íficos!
+12854062 Update README.md
+a2d1388e Documenta├º├úo completa do Farm Defender - README expandido
+cee24309 Adiciona novas mem├│rias e documenta├º├úo do projeto
+4401bb3d Atualiza├º├úo de documenta├º├úo e mem├│rias do projeto
+1785862b Add Farm Defender project structure - Unity project with assets
+029198ae Initial commit - Setup Farm Defender project with Git LFS
