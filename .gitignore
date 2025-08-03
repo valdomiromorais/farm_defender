@@ -1,0 +1,27 @@
+# Unity
+/farm_unity/[Ll]ibrary/
+/farm_unity/[Tt]emp/
+/farm_unity/[Oo]bj/
+/farm_unity/[Bb]uild/
+/farm_unity/[Bb]uilds/
+/farm_unity/[Aa]ssets/AssetStoreTools*
+/farm_unity/UserSettings/
+*.csproj
+*.sln
+*.suo
+*.unityproj
+*.svd
+# Obsidian
+/farm_docs/vault/farm_defender/.obsidian/
+/farm_docs/vault/farm_defender/.trash/
+
+# Blender and Inkscape backups
+*.blend1
+*.svg.bak
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
