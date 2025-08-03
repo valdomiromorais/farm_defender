@@ -75,28 +75,3 @@ A paleta de cores, definida em `farm_docs/referencias/palette.md`, guia as textu
 2. Crie uma branch: `git checkout -b feature/nova-funcionalidade`.
 3. Adicione mudanças: `git add .` e `git commit -m "Descrição da mudança"`.
 4. Envie um pull request para `main`.
-
-## Próximos Passos
-- [ ] Modelar plantação de milho no Blender (#4CAF50, #FBC02D).
-- [ ] Criar textura de milho no2. **Textura de Milho (Inkscape)**:
-   - **Tarefa (20 min)**: Crie uma textura 512x512px com gradiente de #4CAF50 a #81C784 para folhas e #FBC02D para espiga.
-   - Salve como .svg em `farm_assets/milho_texture.svg` e exporte como .png para `farm_unity/Assets/Textures/`.
-3. **Cenário no Unity**:
-   - **Tarefa (30 min)**: Configure o Terrain em `FarmLevel.unity` (100x100m, texturas #8D6E63 e #4CAF50). Adicione caminhos curvos (#BCAAA4) e espalhe milhos com **Paint Trees**.
-   - **Criatividade**: Adicione rochas (#78909C) para contraste, inspiradas em Don’t Starve.
-4. **Testar Pragóide**:
-   - Use o script `PragoideController.cs` (já fornecido) com um cubo (#424242, olhos #FFFF00) como placeholder.
-   - Teste com uma armadilha (#0288D1) e planta (#4CAF50).
-### Git Update
-Após modelar o milho ou configurar o cenário, adicione ao Git:
-```bash
-git add .
-git commit -m "Adiciona milho (Blender/Inkscape) e/ou cenário inicial no Unity"
-git push origin main
-```
-### Perguntas para Você, Valdô
-- Os jogos sugeridos (Stardew Valley, Plants vs. Zombies, etc.) estão alinhados com o que você imaginou? Quer que eu pesquise mais referências ou foque em algum aspecto específico (ex.: visual, mecânicas)?
-- Prefere começar modelando um asset específico no Blender (ex.: milho, Pragóide) ou configurar o cenário no Unity primeiro?
-- Alguma preferência para o próximo relatório ou memória? Exemplo: quer incluir detalhes técnicos da modelagem ou do Unity?
-- Precisa de ajuda com o Blender (ex.: tutorial para modelar milho) ou com o setup do Terrain no Unity?
-Me conta como quer seguir, Valdô! Estou aqui pra ajudar a fazer a fazenda Sol Nascente brilhar e os Pragóides tremerem! 🌾⚔️
