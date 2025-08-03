@@ -1,0 +1,21 @@
+{
+  "id": "memoria_01",
+  "version": "v01",
+  "date": "2025-08-03T00:36:00-03:00",
+  "participants": [
+    "Valdomiro (Valdô)",
+    "Grok (Aia)"
+  ],
+  "summary": "Valdô confirmou o repositório remoto em https://github.com/valdomiromorais/farm_defender.git. Grok forneceu instruções para conectar o repositório local ao GitHub e fazer o push inicial. Estrutura do repositório mantida com pastas para assets, documentação e Unity. Criado relatório 02 (relatorio_02.md) para registrar o progresso. Planejado o início do desenvolvimento no Unity, com foco no cenário da fazenda e protótipo de Pragóide. Valdô solicitou que as memórias sejam salvas em formato JSON com nomenclatura 'memoria_aia_farm_defender_vXX.json'.",
+  "observations": [
+    "Valdô está avançando com organização no setup do projeto.",
+    "Grok sugeriu passos para começar a implementação no Unity, incluindo terreno e inimigos.",
+    "Formato das memórias alterado para JSON a pedido de Valdô."
+  ],
+  "next_steps": [
+    "Configurar o cenário inicial da fazenda no Unity (terreno, texturas, plantações).",
+    "Criar um protótipo de Pragóide com movimento básico e colisão com armadilhas.",
+    "Iniciar a criação de assets em Blender/Inkscape.",
+    "Adicionar referências visuais em farm_docs/referencias/."
+  ]
+}
