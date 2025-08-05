@@ -12,18 +12,18 @@ A paleta reflete o ambiente do Sertão Pernambucano, com a fazenda Sol Nascente 
 ### 1. Fazenda Sol Nascente
 Cores vibrantes para plantações, construções e elementos vivos, inspiradas em Stardew Valley, Farm Together e culturas irrigadas do Vale do São Francisco.
 
-| Cor              | Hexadecimal | Descrição                                           | Uso                                             | Inspiração                           |
-| ---------------- | ----------- | --------------------------------------------------- | ----------------------------------------------- | ------------------------------------ |
-| Verde Milho      | #4CAF50     | Verde vibrante para folhas de milho, feijão, manga, uva, goiaba, banana, melancia. | Texturas de folhas, grama no Terrain.           | Stardew Valley (folhas de culturas). |
-| Amarelo Espiga   | #FBC02D     | Amarelo quente para espigas de milho e girassóis.   | Detalhes de plantações, flores.                 | Farm Together (culturas maduras).    |
-| Marrom Madeira   | #6D4C41     | Marrom rústico para cercas, galinheiros, troncos.   | Estruturas de madeira, troncos de árvores.      | Stardew Valley (cercas de fazenda).  |
-| Verde Irrigado   | #81C784     | Verde claro para áreas irrigadas e plantas jovens.  | Grama no Terrain, folhas jovens.                | Farm Together (áreas cultivadas).    |
-| Laranja Abóbora  | #EF6C00     | Laranja vibrante para abóboras e mangas.            | Texturas de abóboras, frutos de manga.          | Stardew Valley (abóboras).           |
-| Amarelo Manga    | #FFC107     | Amarelo dourado para mangas maduras.                | Detalhes de frutos de manga.                    | Farm Together (frutas tropicais).    |
-| Roxo Uva         | #7B1FA2     | Roxo vibrante para cachos de uva.                   | Cachos de uva, efeitos de luz.                  | Stardew Valley (uvas).               |
-| Rosa Goiaba      | #F06292     | Rosa suave para goiabas.                            | Frutos de goiaba, detalhes de colheita.         | Farm Together (frutas coloridas).    |
-| Amarelo Banana   | #FFF176     | Amarelo claro para cachos de banana.                | Cachos de banana, detalhes brilhantes.          | Stardew Valley (frutas tropicais).   |
-| Vermelho Melancia| #E91E63     | Vermelho vibrante para melancias.                   | Frutos de melancia, listras internas.           | Farm Together (melancias).           |
+| Cor               | Hexadecimal | Descrição                                                                          | Uso                                        | Inspiração                           |
+| ----------------- | ----------- | ---------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------ |
+| Verde Milho       | #4CAF50     | Verde vibrante para folhas de milho, feijão, manga, uva, goiaba, banana, melancia. | Texturas de folhas, grama no Terrain.      | Stardew Valley (folhas de culturas). |
+| Amarelo Espiga    | #FBC02D     | Amarelo quente para espigas de milho e girassóis.                                  | Detalhes de plantações, flores.            | Farm Together (culturas maduras).    |
+| Marrom Madeira    | #6D4C41     | Marrom rústico para cercas, galinheiros, troncos.                                  | Estruturas de madeira, troncos de árvores. | Stardew Valley (cercas de fazenda).  |
+| Verde Irrigado    | #81C784     | Verde claro para áreas irrigadas e plantas jovens.                                 | Grama no Terrain, folhas jovens.           | Farm Together (áreas cultivadas).    |
+| Laranja Abóbora   | #EF6C00     | Laranja vibrante para abóboras e mangas.                                           | Texturas de abóboras, frutos de manga.     | Stardew Valley (abóboras).           |
+| Amarelo Manga     | #FFC107     | Amarelo dourado para mangas maduras.                                               | Detalhes de frutos de manga.               | Farm Together (frutas tropicais).    |
+| Roxo Uva          | #7B1FA2     | Roxo vibrante para cachos de uva.                                                  | Cachos de uva, efeitos de luz.             | Stardew Valley (uvas).               |
+| Rosa Goiaba       | #F06292     | Rosa suave para goiabas.                                                           | Frutos de goiaba, detalhes de colheita.    | Farm Together (frutas coloridas).    |
+| Amarelo Banana    | #FFF176     | Amarelo claro para cachos de banana.                                               | Cachos de banana, detalhes brilhantes.     | Stardew Valley (frutas tropicais).   |
+| Vermelho Melancia | #E91E63     | Vermelho vibrante para melancias.                                                  | Frutos de melancia, listras internas.      | Farm Together (melancias).           |
 
 ### 2. Sertão Árido
 Tons terrosos para o entorno da fazenda, inspirados em Don’t Starve.

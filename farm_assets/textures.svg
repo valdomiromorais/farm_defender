@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.70710678"
-     inkscape:cx="428.50671"
-     inkscape:cy="422.84985"
+     inkscape:cx="717.00627"
+     inkscape:cy="465.27626"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -37,7 +37,7 @@
     <inkscape:grid
        id="grid1"
        units="px"
-       originx="3.3998962"
+       originx="3.3998961"
        originy="0"
        spacingx="16.933333"
        spacingy="16.933332"
@@ -51,6 +51,66 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <linearGradient
+       id="linearGradient108"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#e91e63;stop-opacity:1;"
+         offset="0"
+         id="stop108" />
+      <stop
+         style="stop-color:#7e0c33;stop-opacity:1;"
+         offset="1"
+         id="stop109" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient106"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#fff176;stop-opacity:1;"
+         offset="0"
+         id="stop106" />
+      <stop
+         style="stop-color:#8a7c00;stop-opacity:1;"
+         offset="1"
+         id="stop107" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient104"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f06292;stop-opacity:1;"
+         offset="0"
+         id="stop104" />
+      <stop
+         style="stop-color:#7e0c32;stop-opacity:1;"
+         offset="1"
+         id="stop105" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient102"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#7b1fa2;stop-opacity:1;"
+         offset="0"
+         id="stop102" />
+      <stop
+         style="stop-color:#411056;stop-opacity:1;"
+         offset="1"
+         id="stop103" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient98"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffc107;stop-opacity:1;"
+         offset="0"
+         id="stop98" />
+      <stop
+         style="stop-color:#8a6700;stop-opacity:1;"
+         offset="1"
+         id="stop99" />
+    </linearGradient>
     <linearGradient
        id="linearGradient91"
        inkscape:collect="always">
@@ -415,7 +475,7 @@
        x2="96.533226"
        y2="203.19998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(16.933329)" />
+       gradientTransform="translate(118.53331,-67.733314)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient73"
@@ -425,7 +485,7 @@
        x2="113.46656"
        y2="203.19998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(16.933329)" />
+       gradientTransform="translate(118.53331,-67.733314)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient77"
@@ -435,7 +495,7 @@
        x2="130.39989"
        y2="203.19998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(16.933329)" />
+       gradientTransform="translate(118.53331,-67.733314)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient78"
@@ -445,7 +505,7 @@
        x2="147.33322"
        y2="203.19998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(16.933329)" />
+       gradientTransform="translate(118.53331,-67.733314)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient83"
@@ -455,7 +515,7 @@
        x2="164.26657"
        y2="203.19998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(16.933329)" />
+       gradientTransform="translate(118.53331,-67.733314)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient85"
@@ -465,7 +525,7 @@
        x2="181.19989"
        y2="203.19998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(16.933329)" />
+       gradientTransform="translate(-67.733343,1.6633738e-5)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient87"
@@ -475,7 +535,7 @@
        x2="198.13324"
        y2="203.19998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-84.666679,67.73333)" />
+       gradientTransform="translate(-67.733345,3.0744629e-5)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient91"
@@ -485,19 +545,70 @@
        x2="215.06656"
        y2="203.19998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-84.666676,67.733316)" />
+       gradientTransform="translate(-67.733342,1.6744629e-5)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient98"
+       id="linearGradient99"
+       x1="215.06656"
+       y1="16.933331"
+       x2="215.06656"
+       y2="67.733337"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient102"
+       id="linearGradient103"
+       x1="231.99988"
+       y1="16.933329"
+       x2="231.99988"
+       y2="67.73333"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient104"
+       id="linearGradient105"
+       x1="248.93321"
+       y1="16.933329"
+       x2="248.93321"
+       y2="67.73333"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient106"
+       id="linearGradient107"
+       x1="265.86652"
+       y1="16.933329"
+       x2="265.86652"
+       y2="67.73333"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient108"
+       id="linearGradient109"
+       x1="282.79987"
+       y1="16.933329"
+       x2="282.79987"
+       y2="67.73333"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#666666;fill-opacity:1;stroke-width:0.238674;stroke-linecap:round;stroke-linejoin:round"
+       style="display:none;fill:#666666;fill-opacity:1;stroke-width:0.238674;stroke-linecap:round;stroke-linejoin:round"
        id="rect92"
        width="210"
        height="297"
-       x="0"
-       y="0" />
+       x="-1.4210855e-14"
+       y="1.4210855e-14"
+       inkscape:export-filename="paleta.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:label="fundo"
+       sodipodi:insensitive="true"
+       transform="matrix(0,1,1,0,0,0)" />
     <rect
        style="fill:#4caf50;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        id="rect1"
@@ -618,14 +729,14 @@
        width="16.933332"
        height="16.933332"
        x="3.3998997"
-       y="50.799995" />
+       y="84.751938" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#8d6e63;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="23.02923"
        y="19.432405"
        id="text6"
-       transform="translate(-11.172898,50.799995)"><tspan
+       transform="translate(-11.172898,84.751937)"><tspan
          x="23.02923"
          y="19.432405"
          id="tspan51"><tspan
@@ -637,14 +748,14 @@
        width="16.933332"
        height="16.933332"
        x="20.333233"
-       y="50.799995" />
+       y="84.751938" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#bdaaa4;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="23.02923"
        y="19.432405"
        id="text7"
-       transform="translate(5.7604349,50.799995)"><tspan
+       transform="translate(5.7604349,84.751937)"><tspan
          x="23.02923"
          y="19.432405"
          id="tspan53"><tspan
@@ -661,14 +772,14 @@
        width="16.933332"
        height="16.933332"
        x="37.266563"
-       y="50.799995" />
+       y="84.751938" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="23.02923"
        y="19.432405"
        id="text8"
-       transform="translate(22.693768,50.799995)"><tspan
+       transform="translate(22.693768,84.751937)"><tspan
          x="23.02923"
          y="19.432405"
          id="tspan61"><tspan
@@ -678,13 +789,13 @@
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53573px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="28.797573"
-       y="50.714729"
+       y="84.666664"
        id="text9"><tspan
          sodipodi:role="line"
          id="tspan9"
          style="stroke-width:0.2"
          x="28.801542"
-         y="50.714729">Sertão Árido</tspan></text>
+         y="84.666664">Sertão Árido</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53573px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
@@ -698,7 +809,7 @@
          y="16.848064">Fazenda Sol Nascente</tspan></text>
     <g
        id="g15"
-       transform="translate(3.3998997,16.933332)">
+       transform="translate(3.3998997,50.885273)">
       <rect
          style="fill:#424242;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
          id="rect10"
@@ -795,16 +906,16 @@
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53573px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="37.2626"
-       y="84.666664"
+       y="118.61861"
        id="text15"><tspan
          sodipodi:role="line"
          id="tspan15"
          style="stroke-width:0.2"
          x="37.266567"
-         y="84.666664">Pragóides</tspan></text>
+         y="118.61861">Pragóides</tspan></text>
     <g
        id="g19"
-       transform="translate(3.3998997,16.933332)">
+       transform="translate(3.3998997,50.885273)">
       <rect
          style="fill:#b0bec5;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
          id="rect15"
@@ -871,7 +982,7 @@
              id="tspan92"> </tspan></tspan><tspan
            x="23.02923"
            y="23.968126"
-           id="tspan93">Solar</tspan></text>
+           id="tspan103">Solar</tspan></text>
       <rect
          style="fill:#fff8e1;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
          id="rect18"
@@ -888,28 +999,29 @@
          transform="translate(36.272248,101.59999)"><tspan
            x="23.02923"
            y="19.432405"
-           id="tspan95"><tspan
+           id="tspan105"><tspan
              dx="0 0 0 0 0 0 -0.0079367347"
-             id="tspan94">Branco</tspan><tspan
+             id="tspan104">Branco</tspan><tspan
              y="19.432405"
-             id="tspan96"> </tspan></tspan><tspan
+             id="tspan106"> </tspan></tspan><tspan
            x="23.02923"
            y="23.968126"
-           id="tspan97">Brilho</tspan></text>
+           id="tspan107">Brilho</tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53573px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="37.267342"
-       y="118.44186"
+       y="152.3938"
        id="text20"><tspan
          sodipodi:role="line"
          id="tspan20"
          style="stroke-width:0.2"
          x="37.271309"
-         y="118.44186">Defesas</tspan></text>
+         y="152.3938">Defesas</tspan></text>
     <g
-       id="g25">
+       id="g25"
+       transform="translate(0,33.951941)">
       <rect
          style="fill:#1b5e20;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
          id="rect20"
@@ -926,14 +1038,14 @@
          transform="translate(-11.172897,152.39998)"><tspan
            x="23.02923"
            y="19.432405"
-           id="tspan99"><tspan
+           id="tspan109"><tspan
              dx="0 0 0 0 0 -0.0079376884"
-             id="tspan98">Verde</tspan><tspan
+             id="tspan108">Verde</tspan><tspan
              y="19.432405"
-             id="tspan100"> </tspan></tspan><tspan
+             id="tspan110"> </tspan></tspan><tspan
            x="23.02923"
            y="23.968126"
-           id="tspan101">Escuro</tspan></text>
+           id="tspan111">Escuro</tspan></text>
       <rect
          style="fill:#ffeb3b;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
          id="rect21"
@@ -950,14 +1062,14 @@
          transform="translate(5.7604348,152.39998)"><tspan
            x="23.02923"
            y="19.432405"
-           id="tspan103"><tspan
+           id="tspan113"><tspan
              dx="0 0 0 0 0 0 0 -0.0079376884"
-             id="tspan102">Amarelo</tspan><tspan
+             id="tspan112">Amarelo</tspan><tspan
              y="19.432405"
-             id="tspan104"> </tspan></tspan><tspan
+             id="tspan114"> </tspan></tspan><tspan
            x="23.02923"
            y="23.968126"
-           id="tspan105">Texto</tspan></text>
+           id="tspan115">Texto</tspan></text>
       <rect
          style="fill:#5d4037;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
          id="rect22"
@@ -974,14 +1086,14 @@
          transform="translate(22.693769,152.39998)"><tspan
            x="23.02923"
            y="19.432405"
-           id="tspan107"><tspan
+           id="tspan117"><tspan
              dx="0 0 0 0 0 0 -0.0079376884"
-             id="tspan106">Marrom</tspan><tspan
+             id="tspan116">Marrom</tspan><tspan
              y="19.432405"
-             id="tspan108"> </tspan></tspan><tspan
+             id="tspan118"> </tspan></tspan><tspan
            x="23.02923"
            y="23.968126"
-           id="tspan109">Botão</tspan></text>
+           id="tspan119">Botão</tspan></text>
       <rect
          style="fill:#d32f2f;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
          id="rect23"
@@ -998,26 +1110,26 @@
          transform="translate(39.627105,152.39998)"><tspan
            x="23.02923"
            y="19.432405"
-           id="tspan111"><tspan
+           id="tspan121"><tspan
              dx="0 0 0 0 0 0 0 0 -0.0079376884"
-             id="tspan110">Vermelho</tspan><tspan
+             id="tspan120">Vermelho</tspan><tspan
              y="19.432405"
-             id="tspan112"> </tspan></tspan><tspan
+             id="tspan122"> </tspan></tspan><tspan
            x="23.02923"
            y="23.968126"
-           id="tspan113">Alerta</tspan></text>
+           id="tspan123">Alerta</tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53573px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="37.239437"
-       y="152.39999"
+       y="186.35193"
        id="text25"><tspan
          sodipodi:role="line"
          id="tspan25"
          style="stroke-width:0.2"
          x="37.243404"
-         y="152.39999">UI &amp; HUD</tspan></text>
+         y="186.35193">UI &amp; HUD</tspan></text>
     <rect
        style="fill:url(#linearGradient27);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect25"
@@ -1052,14 +1164,14 @@
        transform="translate(107.35113,-7.1262616)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan115"><tspan
+         id="tspan125"><tspan
            dx="0 0 0 0 0 0 0 -0.0079376884"
-           id="tspan114">Amarelo</tspan><tspan
+           id="tspan124">Amarelo</tspan><tspan
            y="19.432405"
-           id="tspan116"> </tspan></tspan><tspan
+           id="tspan126"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan117">Espiga</tspan></text>
+         id="tspan127">Espiga</tspan></text>
     <rect
        style="fill:url(#linearGradient33);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect31"
@@ -1076,14 +1188,14 @@
        transform="translate(124.29376,-7.1200604)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan119"><tspan
+         id="tspan129"><tspan
            dx="0 0 0 0 0 0 -0.0079376884"
-           id="tspan118">Marrom</tspan><tspan
+           id="tspan128">Marrom</tspan><tspan
            y="19.432405"
-           id="tspan120"> </tspan></tspan><tspan
+           id="tspan130"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan121">Madeira</tspan></text>
+         id="tspan131">Madeira</tspan></text>
     <rect
        style="fill:url(#linearGradient35);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect33"
@@ -1100,14 +1212,14 @@
        transform="translate(141.20238,-7.123161)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan123"><tspan
+         id="tspan133"><tspan
            dx="0 0 0 0 0 -0.0079376884"
-           id="tspan122">Verde</tspan><tspan
+           id="tspan132">Verde</tspan><tspan
            y="19.432405"
-           id="tspan124"> </tspan></tspan><tspan
+           id="tspan134"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan125">Irrigado</tspan></text>
+         id="tspan135">Irrigado</tspan></text>
     <rect
        style="fill:url(#linearGradient37);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect35"
@@ -1124,14 +1236,14 @@
        transform="translate(158.16905,-7.1018703)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan127"><tspan
+         id="tspan137"><tspan
            dx="0 0 0 0 0 0 0 -0.0079376884"
-           id="tspan126">Laranja</tspan><tspan
+           id="tspan136">Laranja</tspan><tspan
            y="19.432405"
-           id="tspan128"> </tspan></tspan><tspan
+           id="tspan138"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan129">Abóbora</tspan></text>
+         id="tspan139">Abóbora</tspan></text>
     <rect
        style="fill:url(#linearGradient56);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect37"
@@ -1162,9 +1274,9 @@
        transform="translate(175.07215,-2.4990654)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan131"><tspan
+         id="tspan141"><tspan
            dx="0 0 0 0 0 -0.0079376884 0.0079374816"
-           id="tspan130">Terra Seca</tspan></tspan></text>
+           id="tspan140">Terra Seca</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#bdaaa4;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
@@ -1174,14 +1286,14 @@
        transform="translate(90.419437,60.613264)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan133"><tspan
+         id="tspan143"><tspan
            dx="0 0 0 0 0 -0.0079372115"
-           id="tspan132">Areia</tspan><tspan
+           id="tspan142">Areia</tspan><tspan
            y="19.432405"
-           id="tspan134"> </tspan></tspan><tspan
+           id="tspan144"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan135">Poeirenta</tspan></text>
+         id="tspan145">Poeirenta</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
@@ -1191,9 +1303,9 @@
        transform="translate(107.33998,65.234251)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan137"><tspan
+         id="tspan147"><tspan
            dx="0 0 0 0 0 -0.0079376884 0.0079374816"
-           id="tspan136">Cinza Pedra</tspan></tspan></text>
+           id="tspan146">Cinza Pedra</tspan></tspan></text>
     <rect
        style="fill:url(#linearGradient60);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect56"
@@ -1210,14 +1322,14 @@
        transform="translate(124.29376,60.607063)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan139"><tspan
+         id="tspan149"><tspan
            dx="0 0 0 0 0 -0.0079376884"
-           id="tspan138">Cinza</tspan><tspan
+           id="tspan148">Cinza</tspan><tspan
            y="19.432405"
-           id="tspan140"> </tspan></tspan><tspan
+           id="tspan150"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan141">Rochoso</tspan></text>
+         id="tspan151">Rochoso</tspan></text>
     <rect
        style="fill:url(#linearGradient62);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect57"
@@ -1234,9 +1346,9 @@
        transform="translate(141.2271,65.234251)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan143"><tspan
+         id="tspan153"><tspan
            dx="0 0 0 0 0 -0.0079376884 0.0079379585"
-           id="tspan142">Verde Musgo</tspan></tspan></text>
+           id="tspan152">Verde Musgo</tspan></tspan></text>
     <rect
        style="fill:url(#linearGradient64);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect58"
@@ -1253,14 +1365,14 @@
        transform="translate(158.16043,60.57451)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan145"><tspan
+         id="tspan155"><tspan
            dx="0 0 0 0 0 0 0 -0.0079376884"
-           id="tspan144">Amarelo</tspan><tspan
+           id="tspan154">Amarelo</tspan><tspan
            y="19.432405"
-           id="tspan146"> </tspan></tspan><tspan
+           id="tspan156"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan147">Brilhante</tspan></text>
+         id="tspan157">Brilhante</tspan></text>
     <rect
        style="fill:url(#linearGradient66);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect59"
@@ -1277,200 +1389,418 @@
        transform="translate(175.09376,60.607063)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan149"><tspan
+         id="tspan159"><tspan
            dx="0 0 0 0 -0.0079372115"
-           id="tspan148">Roxo</tspan><tspan
+           id="tspan158">Roxo</tspan><tspan
            y="19.432405"
-           id="tspan150"> </tspan></tspan><tspan
+           id="tspan160"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan151">Misterioso</tspan></text>
+         id="tspan161">Misterioso</tspan></text>
     <rect
        style="fill:url(#linearGradient70);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect66"
        width="16.933332"
        height="50.799999"
-       x="104.99989"
-       y="152.39998" />
+       x="206.59987"
+       y="84.666664" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#78909c;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="23.02923"
        y="19.432405"
        id="text66"
-       transform="translate(90.47214,128.3404)"><tspan
+       transform="translate(192.07212,60.607086)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan153"><tspan
+         id="tspan163"><tspan
            dx="0 0 0 0 0 -0.0079376884"
-           id="tspan152">Cinza</tspan><tspan
+           id="tspan162">Cinza</tspan><tspan
            y="19.432405"
-           id="tspan154"> </tspan></tspan><tspan
+           id="tspan164"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan155">Metálico</tspan></text>
+         id="tspan165">Metálico</tspan></text>
     <rect
        style="fill:url(#linearGradient72);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect67"
        width="16.933332"
        height="50.799999"
-       x="121.93322"
-       y="152.39998" />
+       x="223.5332"
+       y="84.666664" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#0288d1;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="23.02923"
        y="19.432405"
        id="text67"
-       transform="translate(107.40547,132.87612)"><tspan
+       transform="translate(209.00545,65.142806)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan157"><tspan
+         id="tspan167"><tspan
            dx="0 0 0 0 -0.0079375692 0.0079374816"
-           id="tspan156">Azul Água</tspan></tspan></text>
+           id="tspan166">Azul Água</tspan></tspan></text>
     <rect
        style="fill:url(#linearGradient76);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect68"
        width="16.933332"
        height="50.799999"
-       x="138.86655"
-       y="152.39998" />
+       x="240.46652"
+       y="84.666664" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#ffca28;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="23.02923"
        y="19.432405"
        id="text68"
-       transform="translate(124.3388,128.3404)"><tspan
+       transform="translate(225.93878,60.607086)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan159"><tspan
+         id="tspan169"><tspan
            dx="0 0 0 0 0 0 0 -0.0079376884"
-           id="tspan158">Amarelo</tspan><tspan
+           id="tspan168">Amarelo</tspan><tspan
            y="19.432405"
-           id="tspan160"> </tspan></tspan><tspan
+           id="tspan170"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan161">Solar</tspan></text>
+         id="tspan171">Solar</tspan></text>
     <rect
        style="fill:url(#linearGradient80);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect69"
        width="16.933332"
        height="50.799999"
-       x="155.7999"
-       y="152.39998" />
+       x="257.39987"
+       y="84.666664" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#fff8e1;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="23.02923"
        y="19.432405"
        id="text69"
-       transform="translate(141.27214,128.30784)"><tspan
+       transform="translate(242.87212,60.574526)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan163"><tspan
+         id="tspan173"><tspan
            dx="0 0 0 0 0 0 -0.0079367347"
-           id="tspan162">Branco</tspan><tspan
+           id="tspan172">Branco</tspan><tspan
            y="19.432405"
-           id="tspan164"> </tspan></tspan><tspan
+           id="tspan174"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan165">Brilho</tspan></text>
+         id="tspan175">Brilho</tspan></text>
     <rect
        style="fill:url(#linearGradient84);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect80"
        width="16.933332"
        height="50.799999"
-       x="172.73323"
-       y="152.39998" />
+       x="274.33322"
+       y="84.666664" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#1b5e20;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="23.02923"
        y="19.432405"
        id="text80"
-       transform="translate(158.16043,128.3404)"><tspan
+       transform="translate(259.76041,60.607086)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan167"><tspan
+         id="tspan177"><tspan
            dx="0 0 0 0 0 -0.0079376884"
-           id="tspan166">Verde</tspan><tspan
+           id="tspan176">Verde</tspan><tspan
            y="19.432405"
-           id="tspan168"> </tspan></tspan><tspan
+           id="tspan178"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan169">Escuro</tspan></text>
+         id="tspan179">Escuro</tspan></text>
     <rect
        style="fill:url(#linearGradient86);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect81"
        width="16.933332"
        height="50.799999"
-       x="189.66656"
-       y="152.39998" />
+       x="104.99989"
+       y="152.39999" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#ffeb3b;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="23.02923"
        y="19.432405"
        id="text81"
-       transform="translate(175.09376,128.34661)"><tspan
+       transform="translate(90.427087,128.34663)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan171"><tspan
+         id="tspan181"><tspan
            dx="0 0 0 0 0 0 0 -0.0079376884"
-           id="tspan170">Amarelo</tspan><tspan
+           id="tspan180">Amarelo</tspan><tspan
            y="19.432405"
-           id="tspan172"> </tspan></tspan><tspan
+           id="tspan182"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan173">Texto</tspan></text>
+         id="tspan183">Texto</tspan></text>
     <rect
        style="fill:url(#linearGradient88);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect82"
        width="16.933332"
        height="50.799999"
-       x="104.99989"
-       y="220.1333" />
+       x="121.93323"
+       y="152.39999" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#5d4037;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="23.02923"
        y="19.432405"
        id="text82"
-       transform="translate(90.427092,196.04117)"><tspan
+       transform="translate(107.36043,128.30787)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan175"><tspan
+         id="tspan185"><tspan
            dx="0 0 0 0 0 0 -0.0079376884"
-           id="tspan174">Marrom</tspan><tspan
+           id="tspan184">Marrom</tspan><tspan
            y="19.432405"
-           id="tspan176"> </tspan></tspan><tspan
+           id="tspan186"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan177">Botão</tspan></text>
+         id="tspan187">Botão</tspan></text>
     <rect
        style="fill:url(#linearGradient90);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
        id="rect83"
        width="16.933332"
        height="50.799999"
-       x="121.93323"
-       y="220.1333" />
+       x="138.86656"
+       y="152.39999" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#d32f2f;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
        x="23.02923"
        y="19.432405"
        id="text83"
-       transform="translate(107.36043,196.0737)"><tspan
+       transform="translate(124.29376,128.3404)"><tspan
          x="23.02923"
          y="19.432405"
-         id="tspan179"><tspan
+         id="tspan189"><tspan
            dx="0 0 0 0 0 0 0 0 -0.0079376884"
-           id="tspan178">Vermelho</tspan><tspan
+           id="tspan188">Vermelho</tspan><tspan
            y="19.432405"
-           id="tspan180"> </tspan></tspan><tspan
+           id="tspan190"> </tspan></tspan><tspan
          x="23.02923"
          y="23.968126"
-         id="tspan181">Alerta</tspan></text>
+         id="tspan191">Alerta</tspan></text>
+    <rect
+       style="fill:#ffc107;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect93"
+       width="16.933332"
+       height="16.933332"
+       x="88.066559"
+       y="16.933331" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#ffc107;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text93"
+       transform="translate(73.493765,16.933332)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan193"><tspan
+           dx="0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan192">Amarelo</tspan><tspan
+           y="19.432405"
+           id="tspan194"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan195">Manga</tspan></text>
+    <rect
+       style="fill:#7b1fa2;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect94"
+       width="16.933332"
+       height="16.933332"
+       x="3.3998997"
+       y="50.799995" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:start;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#7b1fa2;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="5.8351827"
+       y="70.232407"
+       id="text94"><tspan
+         sodipodi:role="line"
+         id="tspan94"
+         style="font-size:3.175px;line-height:4.53572px;fill:#7b1fa2;fill-opacity:1;stroke-width:0.2"
+         x="5.8351827"
+         y="70.232407">Roxo Uva</tspan></text>
+    <rect
+       style="fill:#f06292;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect95"
+       width="16.933332"
+       height="16.933332"
+       x="20.333233"
+       y="50.799995" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#f06292;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text95"
+       transform="translate(5.737271,50.799999)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan197"><tspan
+           dx="0 0 0 0 -0.0079372115 0.0079374816"
+           id="tspan196">Rosa Goiaba</tspan></tspan></text>
+    <rect
+       style="fill:#fff176;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect96"
+       width="16.933332"
+       height="16.933332"
+       x="37.266563"
+       y="50.799995" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#fff176;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text96"
+       transform="translate(22.684461,50.799999)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan199"><tspan
+           dx="0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan198">Amarelo</tspan><tspan
+           y="19.432405"
+           id="tspan200"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan201">Banana</tspan></text>
+    <rect
+       style="fill:#e91e63;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       id="rect97"
+       width="16.933332"
+       height="16.933332"
+       x="54.199898"
+       y="50.799995" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#e91e63;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text97"
+       transform="translate(39.602386,50.799999)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan203"><tspan
+           dx="0 0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan202">Vermelho</tspan><tspan
+           y="19.432405"
+           id="tspan204"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan205">Melancia</tspan></text>
+    <rect
+       style="fill:url(#linearGradient99);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect98"
+       width="16.933332"
+       height="50.800007"
+       x="206.59988"
+       y="16.933331" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#ffc107;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text98"
+       transform="translate(192.02709,-7.1231624)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan207"><tspan
+           dx="0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan206">Amarelo</tspan><tspan
+           y="19.432405"
+           id="tspan208"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan209">Manga</tspan></text>
+    <rect
+       style="fill:url(#linearGradient103);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect99"
+       width="16.933332"
+       height="50.799999"
+       x="223.53322"
+       y="16.933329" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:start;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#7b1fa2;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="225.96851"
+       y="12.273587"
+       id="text99"><tspan
+         sodipodi:role="line"
+         id="tspan99"
+         style="font-size:3.175px;line-height:4.53572px;fill:#7b1fa2;fill-opacity:1;stroke-width:0.2"
+         x="225.96851"
+         y="12.273587">Roxo Uva</tspan></text>
+    <rect
+       style="fill:url(#linearGradient105);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect100"
+       width="16.933332"
+       height="50.799999"
+       x="240.46655"
+       y="16.933329" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#f06292;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text100"
+       transform="translate(225.87059,-7.1588211)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan211"><tspan
+           dx="0 0 0 0 -0.0079372115 0.0079374816"
+           id="tspan210">Rosa Goiaba</tspan></tspan></text>
+    <rect
+       style="fill:url(#linearGradient107);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect101"
+       width="16.933332"
+       height="50.799999"
+       x="257.39987"
+       y="16.933329" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#fff176;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text101"
+       transform="translate(242.81778,-7.1588211)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan213"><tspan
+           dx="0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan212">Amarelo</tspan><tspan
+           y="19.432405"
+           id="tspan214"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan215">Banana</tspan></text>
+    <rect
+       style="fill:url(#linearGradient109);fill-opacity:1;stroke-width:0.34641;stroke-linecap:round;stroke-linejoin:round"
+       id="rect102"
+       width="16.933332"
+       height="50.799999"
+       x="274.33322"
+       y="16.933329" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:4.53572px;font-family:AngryBirds;-inkscape-font-specification:AngryBirds;text-align:center;letter-spacing:0.0079375px;word-spacing:0.0079375px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:17.1262;display:inline;fill:#e91e63;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round"
+       x="23.02923"
+       y="19.432405"
+       id="text102"
+       transform="translate(259.73571,-7.1588211)"><tspan
+         x="23.02923"
+         y="19.432405"
+         id="tspan217"><tspan
+           dx="0 0 0 0 0 0 0 0 -0.0079376884"
+           id="tspan216">Vermelho</tspan><tspan
+           y="19.432405"
+           id="tspan218"> </tspan></tspan><tspan
+         x="23.02923"
+         y="23.968126"
+         id="tspan219">Melancia</tspan></text>
   </g>
 </svg>
