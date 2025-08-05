@@ -8,4 +8,6 @@ Este é o cofre do projeto FarmDefender...
 3. [[TO DO List]]
 4. [[História]]
 5. [[Paleta]]
-6. 
+6. [[GDD - Farm Defender]]
+7. [[Cronograma - Farm Defender]]
+8. 

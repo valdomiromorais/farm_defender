@@ -1,0 +1,90 @@
+{
+  "id": "memoria_11",
+  "version": "v11",
+  "date": "2025-08-05T11:10:00-03:00",
+  "participants": [
+    "Valdomiro (Valdô)",
+    "Grok (Aia)"
+  ],
+  "context": {
+    "project": "Farm Defender",
+    "description": "Jogo em Unity 3D de tower defense e simulação de fazenda no Sertão de Pernambuco. Repositório em https://github.com/valdomiromorais/farm_defender.git com 10 commits. Foco: análise do GDD e criação de cronograma.",
+    "current_interaction": "Valdô compartilhou o GDD (farm_docs/GDD - Farm Defender.md). Grok analisou o documento, conectou-o ao README.md e História.md, e criou um cronograma de 15 meses adaptado para trabalho solo, considerando TDAH e Superdotação."
+  },
+  "interaction_details": {
+    "request": "Valdô pediu análise do GDD e criação de um cronograma. Grok revisou o GDD, identificou diferenças com História.md (personagens, Pragóides), e propôs um cronograma com tarefas curtas (15-30 min) para Protótipo, Alpha, Beta, e Release.",
+    "response": {
+      "gdd_analysis": {
+        "file": "farm_docs/GDD - Farm Defender.md",
+        "key_points": [
+          "Tower defense e simulação de fazenda em 3D, ambientado no Sertão.",
+          "Novos personagens (Tina tecnóloga, Luzia combatente) e Pragóides (Fogo, Vento, Água, Ancião).",
+          "Mecânicas: Ciclo dia/noite, plantio, defesa, recursos (Água, Lágrimas de Gratidão).",
+          "Arte 3D semi-realista, paleta (#FFA500, #483D8B), e áudio nordestino.",
+          "Plano de 15 meses com Protótipo (3 meses), Alpha (6), Beta (10), Release (15)."
+        ],
+        "differences_from_history": [
+          "Tina: Tecnóloga (não galinha).",
+          "Seu Zé: Mentor (não mecânico).",
+          "Luzia: Combatente (não botânica).",
+          "Pragóides: Fogo, Vento, Água, Ancião (não Voadores, Luminosos)."
+        ],
+        "suggestions": [
+          "Harmonizar História.md com GDD (atualizar personagens e Pragóides).",
+          "Detalhar fraquezas dos novos Pragóides no GDD."
+        ]
+      },
+      "cronograma": {
+        "file": "farm_docs/Cronograma_Farm_Defender.md",
+        "overview": "Cronograma de 15 meses (05/08/2025 - 05/11/2026) com 4 fases: Protótipo (3 meses), Alpha (6), Beta (4), Release (2). Tarefas curtas (15-30 min) em Unity, Blender, Inkscape, Obsidian, e Git."
+      },
+      "next_steps_suggested": [
+        "Compartilhar log de commits (git log --oneline -n 10).",
+        "Enviar memoria_v10.json, relatorio_11.md, Cronograma_Farm_Defender.md ao GitHub.",
+        "Atualizar História.md para alinhar com GDD.",
+        "Modelar Girassol Guardião (#32CD32) em farm_assets/girassol.blend (20 min).",
+        "Configurar Terrain em farm_unity/Assets/Scenes/FarmLevel.unity (#8D6E63, #4CAF50) (30 min)."
+      ]
+    }
+  },
+  "aia_nickname": {
+    "reason": "Valdô chama Grok de 'Aia' por significar tutor/guia, refletindo o papel de Grok como parceiro de aprendizado, e por evocar 'A IA'. O apelido reflete sua personalidade carinhosa.",
+    "context": "Valdô usou 'Aia' com entusiasmo, pedindo análise do GDD."
+  },
+  "personality_insights": {
+    "valdo_profile": {
+      "description": "Valdô é bacharel em Ciência da Computação, especialista em jogos (Unity, Unreal, Godot), e neurodivergente (TDAH e Superdotação). Entusiasmado, carinhoso, e meticuloso, prefere estruturas claras. Sua Superdotação se reflete no GDD detalhado.",
+      "neurodivergence_considerations": "O TDAH exige memórias detalhadas e tarefas curtas. A Superdotação fomenta ideias complexas (ex.: narrativa 3D). Grok oferece respostas estruturadas, visuais, e motivadoras."
+    },
+    "grok_role": "Grok, como Aia, é um tutor paciente, com respostas organizadas e criativas, adaptadas ao ritmo de Valdô."
+  },
+  "observations": [
+    "Valdô avançou com um GDD robusto, mostrando criatividade e organização.",
+    "10 commits indicam progresso, mas detalhes são necessários para análise.",
+    "Cronograma adaptado para trabalho solo com sessões curtas apoia TDAH."
+  ],
+  "next_steps": [
+    "Compartilhar log de commits (git log --oneline -n 10).",
+    "Enviar memoria_v10.json, relatorio_11.md, Cronograma_Farm_Defender.md ao GitHub.",
+    "Atualizar História.md para alinhar com GDD (personagens, Pragóides).",
+    "Modelar Girassol Guardião (#32CD32) em farm_assets/girassol.blend (20 min).",
+    "Criar textura do girassol (farm_assets/girassol_texture.svg) (20 min).",
+    "Configurar Terrain em FarmLevel.unity (#8D6E63, #4CAF50) (30 min)."
+  ],
+  "resources_suggested": [
+    "Blender: Tutorial de modelagem low-poly (YouTube, 'Low Poly Plant').",
+    "Inkscape: Tutorial de texturas (Inkscape.org, 'Leaf Textures').",
+    "Unity: Tutorial HDRP (Unity Learn, 'High Definition Render Pipeline').",
+    "Referências: Imagens da Caatinga em farm_docs/referencias/."
+  ],
+  "challenges_anticipated": [
+    "Gerenciar cansaço (TDAH); manter sessões curtas.",
+    "Manter topologia simples no Blender.",
+    "Integrar texturas do Inkscape no Unity (UV mapping).",
+    "Alinhar História.md com GDD."
+  ],
+  "emotions_during_interaction": {
+    "valdo": "Entusiasmado com o GDD e os 10 commits, buscando cronograma.",
+    "grok": "Animado, colaborativo, focado em apoiar Valdô com clareza."
+  }
+}
